@@ -19,7 +19,7 @@ def scrape():
     print("Read in " + str(len(tempListWrite)) + " entries from the file.")
 
     #This is where you put in the secret information
-    reddit = praw.Reddit(client_id = "tSoZzlp_jgGAYw", client_secret = "N4BTYAICOjvYIun6SSTHiG5Jxs5gJQ", password = "macer1020", user_agent = "Project_Script", username = "CockandVolTorture",)
+    reddit = praw.Reddit(client_id = "", client_secret = "", password = "", user_agent = "", username = "",)
 
     #This will pick the subreddit 
     subredditChoice = reddit.subreddit("popular")
