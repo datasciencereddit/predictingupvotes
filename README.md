@@ -1,6 +1,6 @@
 # predictingupvotes
 
-This group of files and data was used in a data science project.
+This group of files and data was used in a data science project. Download the zip file to get started.
 
 badEntryDeleter.py deletes entries from the data that do not end with a date. Helped during certain situations.
 
