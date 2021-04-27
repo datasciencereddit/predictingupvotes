@@ -20,3 +20,5 @@ keywords within the title.
 wordEvaluator.py uses redditScraped.txt to create titlevalue.txt. It averages the amount of upvotes per word and averages the upvote ratios per word. Then, it uses all of
 those values to create a wordvalue for each word by multiplying both of those averages together. Then, it will go through every title and determine it's average word value based
 on the words in the title. Finally, it will print those values to titlevalue.txt.
+
+The R scripts were for internal use and aren't meant to function by themselves. However, they may give some insight into our process.
